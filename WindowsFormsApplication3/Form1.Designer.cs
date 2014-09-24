@@ -3,7 +3,7 @@
     partial class Form1
     {
         /// <summary>
-        /// Required designer variable.
+        /// Required designer variable panos.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
@@ -33,7 +33,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(80, 62);
+            this.button1.Location = new System.Drawing.Point(87, 197);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 0;
